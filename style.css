@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 * {
+=======
+/* Add your own styles You may want to separate your styles with a separator */
+/* For your own styles, use a class */
+
+/* ==========Main page styles========== */
+*{
+>>>>>>> dd6cbf465130b8f9a7b347797a2d9c8fc09d19b5
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 body {
     min-width: 375px;
     width: 100%;
@@ -17,3 +26,20 @@ body {
   img {
     font-size: 2rem;
   }
+=======
+body{
+    min-width: 375px;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: start; 
+    flex-direction: column;
+    position: relative;
+}
+/* ==========End Main page styles========== */
+
+/* ==========Student1 styles========== */
+
+/* ==========End Student1 styles========== */
+>>>>>>> dd6cbf465130b8f9a7b347797a2d9c8fc09d19b5
